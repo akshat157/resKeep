@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "resKeep",
+    "version":"1.0",
+
+    "description": "resKeep - Short for Resource Keeper.\nHelps keep your resources - links and notes organized.\n",
+    
+    "permissions": [
+        "storage"
+    ],
+
+    "browser_action": {
+        "default_icon": "icons/resKeep.jpeg",
+        "default_title": "resKeep",
+        "default_popup": "popup.html"
+    }
+
+}
