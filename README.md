@@ -4,7 +4,7 @@ Lets user save resources - links & notes at an immediate need.
 
 ## Built using
 * HTML
-* CSS - primarily, [Materializecss Framework](https://www.materializecss.com/ "materializecss")
+* CSS - primarily, [Materialize CSS Framework](https://www.materializecss.com/ "materializecss")
 * Javascript
 
 ## License
@@ -13,6 +13,6 @@ This project is licensed under the [GNU AGPLv3 license](https://www.gnu.org/lice
 ## Inspiration
 Need to store google drive links
 
-## Acknowledgements
-* Thanks to [Alvin Wang](https://github/dogfalo/) and the community for the awesome [Materialize CSS Framework](https://www.materializecss.com/)
+## Thanks to
+* [Alvin Wang](https://github/dogfalo/"Dogfalo") and the community for the awesome [Materialize CSS Framework](https://www.materializecss.com/"materializecss")
 * My friends :)
